@@ -4,4 +4,4 @@ Administartive level 1 choropleth map of Ghana - with labels - highlighting the 
 
 -map created using D3js
 
-![image.png]
+!(image.png)
